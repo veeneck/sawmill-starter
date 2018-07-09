@@ -15,4 +15,5 @@ fields:
   - media-feature
   - hero-section
 pages:
+- content/test.md
 - content/_index.md
