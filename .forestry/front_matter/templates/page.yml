@@ -9,6 +9,7 @@ fields:
   name: blocks
   label: Blocks
   template_types:
+  - test-template
   - body-copy
   - call-to-action
   - media-feature
