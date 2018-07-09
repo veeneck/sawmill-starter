@@ -1,0 +1,16 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: list
+  config:
+    use_select: true
+    source:
+      type: pages
+  label: listthing
+  name: listthing
+  description: hmm
+- type: text
+  name: name
+  label: name
+  description: d
